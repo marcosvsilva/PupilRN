@@ -1,2 +1,2 @@
-# PupiRN
+# PupilRN
 Pupil eyetrack using RNN
