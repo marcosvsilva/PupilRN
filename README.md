@@ -1,2 +1,2 @@
 # PupilRN
-Pupil eyetrack using deppRNN
+Pupil eyetrack using deepRNN
